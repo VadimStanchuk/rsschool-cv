@@ -46,4 +46,4 @@ alert( result );
 * English - Upper-intermediate (according [ILH school](https://www.ilh.by/) ) (I have been practicing English at work with foreign customer)
 * Russian - Native
 * Ukrainian - Intermediate
-* Polish - Basic (I have been practicing English at work with foreign customer)
+* Polish - Basic (I have been practicing Polish at work with foreign customer)
