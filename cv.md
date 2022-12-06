@@ -5,11 +5,9 @@
 
 **Location:** Brest, Belarus
 
-**Phone:** +375292067974
+**Phone:** +375292067979
 
 **E-mail:** stanchuk.work@gmail.com
-
-**Telegram:** @vadimstan
 
 **GitHub:** VadimStanchuk
 
